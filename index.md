@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Mizuki Ishii
+1985年5月生まれ
 
-You can use the [editor on GitHub](https://github.com/ishiimizuki/ishiimizuki.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+エンジニア(2011/9~)
+iOS/Android/Web アプリケーション
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+公立中学校理科非常勤講師(2010)
+公立高校物理・化学非常勤講師(2009)
 
-### Markdown
+## History
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2017
+iOSキュレーションアプリ開発(obj-c)
+iOS物件検索アプリ開発(obj-c, swift)
 
-```markdown
-Syntax highlighted code block
+### 2016
+iOSキュレーションアプリ開発(obj-c)
+iOS物件検索アプリ開発(obj-c, swift)
+iOS旅行アプリ開発(obj-c)
 
-# Header 1
-## Header 2
-### Header 3
+### 2015
+iOS物件検索アプリ開発(obj-c, swift)
+iOSバイトスケジュールアプリ開発(obj-c)
+iOS就活アプリ開発(obj-c)
 
-- Bulleted
-- List
+### 2014
+iOS就活アプリ開発(obj-c)
+iOS音楽アプリ開発(obj-c)
+Web学習アプリ開発(ruby)
 
-1. Numbered
-2. List
+### 2013
+iOS音楽アプリ開発(obj-c)
+iOSクイズアプリ開発(obj-c)
+Web記事作成アプリ開発(python)
+Web記事作成アプリ開発(php)
 
-**Bold** and _Italic_ and `Code` text
+### 2012
+iOS学習アプリ開発(obj-c)
+Android読み物アプリ開発(java)
 
-[Link](url) and ![Image](src)
-```
+### 2011
+iOS学習アプリ開発(obj-c)
+iOS記事アプリ開発(obj-c)
+Web占いアプリ開発(php)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishiimizuki/ishiimizuki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
